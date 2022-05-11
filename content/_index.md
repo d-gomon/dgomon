@@ -1,20 +1,21 @@
 ---
-action_label: Read More &rarr;
+#Find cool icons to use in the labels: https://fontawesome.com/icons
+action_label: "Read More <i class='fas fa-rocket'></i>"
 action_link: /about
 action_type: text
-description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic,
-  we wanted to create a polished Hugo theme with the right features for a true personal
-  website. We set out to create a theme that is a pleasure to learn, and one that
-  helps others get to know you better. It is more than a blog, with flexible custom
-  layouts that help you introduce yourself online.
+description: Hello there! My name is **Daniel Gomon** and I am a PhD candidate in Statistics
+             at Leiden University. On this website, you can find information
+             about my academic career, my hobbies and (with some luck) some memes.
 image_left: true
 images:
-- img/revoir.jpg
+#Default directory: static/
+#- img/revoir.jpg
+- Chicken.jpg
 show_action_link: true
 show_social_links: true
-subtitle: A Hugo theme you'll want to hang out with
+subtitle: PhD Candidate, Badminton enthusiast, Meme expert
 text_align_left: false
-title: Hugo Apéro
+title: Daniel Gomon
 type: home
 ---
 

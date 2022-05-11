@@ -169,6 +169,11 @@ enableEmoji = true
 #    url = "/contributors/"
 #    weight = 3
 
+# Permalinks
+[permalinks]
+  projects = "/project/:filename/"
+
+
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
   [privacy.disqus]
