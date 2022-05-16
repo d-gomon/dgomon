@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Personal website of Daniel Gomon."
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["blog", "projects", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -171,7 +171,7 @@ enableEmoji = true
 
 # Permalinks
 [permalinks]
-  projects = "/project/:filename/"
+  projects = "/projects/:filename/"
 
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
